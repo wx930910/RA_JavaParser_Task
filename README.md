@@ -23,7 +23,7 @@ For example, in [TestDataFileMeta.java](https://github.com/apache/avro/blob/b534
     * testUseMetaAfterCreate()
     * testBlockSizeSetInvalid()
 1. Extract the assertion statement from each @Test method. Provide a main function to print the assertion statement.
-1. Extract the methods’ qualified name invoked in the assertion statement.
+1. Extract the methods’ qualified name invoked in the assertion statement. Provide a main function to print the methods' qualified name.
 
 ## JavaParser
 JavaParser is a java library that allows users to interact with java source code. It parses source code into AST tree and provides visitor patterns for users to override and visit various software entities. More detail could be find here: [JavaParserVisited.pdf](https://drive.google.com/file/d/1xNlA4ZVsbySxIkXBnVAd-0vxIAnxDnMP/view?usp=sharing)
