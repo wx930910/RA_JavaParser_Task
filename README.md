@@ -4,7 +4,7 @@
 The deadline of this task is 08/28/2020 18:00. We are not able to evaluate submissions after the deadline.
 
 ## How to submit task
-You need to create you own git repository for the task and share the link with us via email: 
+You need to create you own git repository for the task and share the link with us via email (please send email to all of us): 
 * [Xiao Wang](xwang97@stevens.edu)
 * [Lu Xiao](lxiao6@stevens.edu)
 * [Yutong Zhao](yzhao102@stevens.edu)
