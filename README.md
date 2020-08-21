@@ -1,7 +1,7 @@
 # RA_JavaParser_Task
 
 ## Task Timeline
-The deadline of this task is 08/28/2020 18:00. We are not able to evaluate submissions after the deadline.
+The deadline of this task is 08/28/2020 18:00. We encourage you to finish this task earlier and we are not able to evaluate submissions after the deadline.
 
 ## How to submit task
 You need to create you own git repository for the task and share the link with us via email (please email all of us): 
