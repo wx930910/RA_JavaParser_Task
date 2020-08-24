@@ -12,6 +12,7 @@ You need to create you own git repository for the task and share the link with u
 You need to create a branch for each small task and let us know (by emailing us) when you finish each part so we can evaluate the result of the task.
 
 ## Tasks
+Please config your project by using Maven build framework if you can.
 1. Config JavaParser on [Avro](https://github.com/apache/avro) project, parse three files
     * [TestResolvingGrammarGenerator.java](https://github.com/apache/avro/blob/2d3b1fe7efd865639663ba785877182e7e038c45/lang/java/avro/src/test/java/org/apache/avro/io/parsing/TestResolvingGrammarGenerator.java)
     * [TestDataFileMeta.java](https://github.com/apache/avro/blob/b534b8ba924cd7515ec71bd0c0898153952c6eba/lang/java/avro/src/test/java/org/apache/avro/TestDataFileMeta.java)
